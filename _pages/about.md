@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Paul Setzepfand"
-layout: home
 author_profile: true
 ---
 
