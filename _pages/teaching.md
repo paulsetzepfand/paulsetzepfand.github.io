@@ -1,12 +1,9 @@
 ---
-permalink: /
-title: ""
+permalink: /teaching/
+title: "Teaching"
 author_profile: true
-redirect_from: 
-  - /teaching/
-  - /teaching.md
+layout: archive
 ---
-
 ## Teaching
 
 **University of Oslo**
