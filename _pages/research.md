@@ -5,6 +5,7 @@ author_profile: true
 layout: archive
 ---
 
+(* pre-Ph.D.)
 
 ## Work in Progress
 
@@ -19,7 +20,3 @@ The Ontology of Uncertainty in Applied Economics: Implications for Inferential P
 ## Publications
 
 "Priming Attitudes toward Immigrants: Implications for Migration Research and Survey Design" (with Patrick Dylong and Silke Übelmesser). 2024. **European Journal of Political Economy**. [URL](https://linkinghub.elsevier.com/retrieve/pii/S0176268024000569).*
-
----
-
-(* pre-Ph.D.)
