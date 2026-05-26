@@ -41,3 +41,12 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom overrides */
+
+/* Hide footer completely */
+.page__footer,
+.page__footer-follow,
+.page__footer-copyright {
+  display: none !important;
+}
