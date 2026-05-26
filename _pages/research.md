@@ -27,4 +27,4 @@ The Ontology of Uncertainty in Applied Economics: Implications for Inferential P
 
 ---
 
-(* pre-Ph.D. work)
+(* pre-Ph.D.)
