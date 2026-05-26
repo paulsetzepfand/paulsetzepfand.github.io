@@ -1,11 +1,9 @@
 ---
 permalink: /
-title: "Paul Setzepfand"
+title: "About Me"
 author_profile: true
 layout: archive
 ---
-
-## About
 
 I am a first-year **Ph.D. candidate in Economics** at the [**University of Oslo**](https://www.sv.uio.no/econ/english/), advised by [Ragnhild C. Schreiner](https://sites.google.com/site/ragnhildschreiner/) and [Edwin Leuven](https://leuven.economists.nl/). My research focuses on **labor and public economics**, with secondary interests in **health economics and the economics of education**.
 
