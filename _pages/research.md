@@ -5,6 +5,8 @@ author_profile: true
 layout: archive
 ---
 
+<div style="text-align: justify;" markdown="1">
+
 ## Work in Progress
 
 Digital Technology in Schools and Student Outcomes (with Edwin Leuven and Ragnhild C. Schreiner)
@@ -22,3 +24,5 @@ The Ontology of Uncertainty in Applied Economics: Implications for Inferential P
 ---
 
 (* pre-Ph.D.)
+
+</div>
