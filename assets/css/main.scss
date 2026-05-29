@@ -41,3 +41,35 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Global link colors (light mode default) */
+a {
+  color: #005cc5;        /* link color */
+  text-decoration: none; /* optional */
+}
+
+a:hover,
+a:focus {
+  color: #003f8c;        /* hover color */
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #5a32a3;        /* visited color (optional) */
+}
+
+/* Dark mode override using system preference */
+@media (prefers-color-scheme: dark) {
+  a {
+    color: #58a6ff;      /* higher-contrast blue on dark background */
+  }
+
+  a:hover,
+  a:focus {
+    color: #79c0ff;
+  }
+
+  a:visited {
+    color: #c297ff;
+  }
+}
