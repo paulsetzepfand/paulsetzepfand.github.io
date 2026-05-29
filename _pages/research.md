@@ -5,7 +5,7 @@ author_profile: true
 layout: archive
 ---
 
-# Work in Progress
+## Work in Progress
 
 <div style="text-align: justify;" markdown="1">
 
@@ -15,7 +15,7 @@ The Ontology of Uncertainty in Applied Economics: Implications for Inferential P
 
 </div>
 
-# Working Papers
+## Working Papers
 
 <div style="text-align: justify;" markdown="1">
 
@@ -23,7 +23,7 @@ The Ontology of Uncertainty in Applied Economics: Implications for Inferential P
 
 </div>
 
-# Publications
+## Publications
 
 <div style="text-align: justify;" markdown="1">
 
