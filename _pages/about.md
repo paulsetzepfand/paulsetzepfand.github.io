@@ -13,6 +13,6 @@ Prior to starting my Ph.D., I earned a Master's degree in Economics from the Uni
 
 You can find my full CV [here](cv.pdf).
 
-I will be visiting **CREST** in June/July 2026, hosted by [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/).
+I am visiting **CREST** in June/July 2026, hosted by [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/).
 
 </div>
