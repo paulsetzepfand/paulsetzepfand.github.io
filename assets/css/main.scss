@@ -73,3 +73,14 @@ a:visited {
     color: #c297ff;
   }
 }
+
+.page__content a {
+  color: #ff6a00 !important;  /* bright orange */
+}
+
+/* Dark mode override */
+@media (prefers-color-scheme: dark) {
+  .page__content a {
+    color: #ffcc00 !important;  /* bright yellow, high contrast on dark */
+  }
+}
