@@ -41,30 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-/* Link colors: same for all links (top bar + content) */
-
-/* Light mode (and default) */
-a,
-a:visited {
-  color: #005cc5 !important;   /* pick any high-contrast color you like */
-}
-
-a:hover,
-a:focus {
-  color: #003f8c !important;   /* darker hover color */
-  text-decoration: underline;
-}
-
-/* Dark mode override */
-@media (prefers-color-scheme: dark) {
-  a,
-  a:visited {
-    color: #58a6ff !important; /* brighter color for dark backgrounds */
-  }
-
-  a:hover,
-  a:focus {
-    color: #79c0ff !important;
-  }
-}
