@@ -15,5 +15,3 @@ Spring 2026: Introductory Econometrics (BA/MA), Teaching Assistant
 
 Fall 2019: Microeconomics (BA), Teaching Assistant <br>
 Spring 2019: Statistics (BA), Teaching Assistant
-
----
