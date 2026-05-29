@@ -42,45 +42,29 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Global link colors (light mode default) */
-a {
-  color: #005cc5;        /* link color */
-  text-decoration: none; /* optional */
+/* Link colors: same for all links (top bar + content) */
+
+/* Light mode (and default) */
+a,
+a:visited {
+  color: #005cc5 !important;   /* pick any high-contrast color you like */
 }
 
 a:hover,
 a:focus {
-  color: #003f8c;        /* hover color */
+  color: #003f8c !important;   /* darker hover color */
   text-decoration: underline;
-}
-
-a:visited {
-  color: #5a32a3;        /* visited color (optional) */
-}
-
-/* Dark mode override using system preference */
-@media (prefers-color-scheme: dark) {
-  a {
-    color: #58a6ff;      /* higher-contrast blue on dark background */
-  }
-
-  a:hover,
-  a:focus {
-    color: #79c0ff;
-  }
-
-  a:visited {
-    color: #c297ff;
-  }
-}
-
-.page__content a {
-  color: #ff6a00 !important;  /* bright orange */
 }
 
 /* Dark mode override */
 @media (prefers-color-scheme: dark) {
-  .page__content a {
-    color: #ffcc00 !important;  /* bright yellow, high contrast on dark */
+  a,
+  a:visited {
+    color: #58a6ff !important; /* brighter color for dark backgrounds */
+  }
+
+  a:hover,
+  a:focus {
+    color: #79c0ff !important;
   }
 }
