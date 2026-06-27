@@ -7,7 +7,7 @@ layout: archive
 
 ---
 
-**University of Oslo**, Teaching Assistant  
+**University of Oslo**, Teaching Assistant
 
 <table style="border-collapse: collapse; width: 100%; font: inherit;">
   <tr>
@@ -20,7 +20,7 @@ layout: archive
   </tr>
 </table>
 
-**Friedrich Schiller University Jena**, Teaching Assistant  
+**Friedrich Schiller University Jena**, Teaching Assistant
 
 <table style="border-collapse: collapse; width: 100%; font: inherit;">
   <tr>
