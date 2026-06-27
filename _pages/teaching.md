@@ -9,26 +9,24 @@ layout: archive
 
 **University of Oslo**, Teaching Assistant
 
-<table style="border-collapse: collapse; width: 100%; font: inherit;">
-  <tr>
-    <td style="padding-left:12px; font: inherit;">Mathematics II (BA/MA)</td>
-    <td style="text-align:right; font: inherit;">Fall 2026</td>
-  </tr>
-  <tr>
-    <td style="padding-left:12px; font: inherit;">Introductory Econometrics (BA/MA)</td>
-    <td style="text-align:right; font: inherit;">Spring 2026</td>
-  </tr>
-</table>
+<div>
+  <span style="display:inline-block; padding-left:12px;">Mathematics II (BA/MA)</span>
+  <span style="float:right;">Fall 2026</span>
+</div>
+
+<div>
+  <span style="display:inline-block; padding-left:12px;">Introductory Econometrics (BA/MA)</span>
+  <span style="float:right;">Spring 2026</span>
+</div>
 
 **Friedrich Schiller University Jena**, Teaching Assistant
 
-<table style="border-collapse: collapse; width: 100%; font: inherit;">
-  <tr>
-    <td style="padding-left:12px; font: inherit;">Microeconomics (BA)</td>
-    <td style="text-align:right; font: inherit;">Fall 2019</td>
-  </tr>
-  <tr>
-    <td style="padding-left:12px; font: inherit;">Statistics (BA)</td>
-    <td style="text-align:right; font: inherit;">Spring 2019</td>
-  </tr>
-</table>
+<div>
+  <span style="display:inline-block; padding-left:12px;">Microeconomics (BA)</span>
+  <span style="float:right;">Fall 2019</span>
+</div>
+
+<div>
+  <span style="display:inline-block; padding-left:12px;">Statistics (BA)</span>
+  <span style="float:right;">Spring 2019</span>
+</div>
