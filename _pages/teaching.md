@@ -19,6 +19,8 @@ layout: archive
   <span style="float:right;">Spring 2026</span>
 </div>
 
+<br>
+
 **Friedrich Schiller University Jena**, Teaching Assistant
 
 <div>
