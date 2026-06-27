@@ -7,7 +7,9 @@ layout: archive
 
 ---
 
-**University of Oslo**, Teaching Assistant
+<div style="font-size: 1.15em; font-weight: 600;">
+  <strong>University of Oslo</strong>, Teaching Assistant
+</div>
 
 <div>
   <span style="display:inline-block; padding-left:12px;">Mathematics II (BA/MA)</span>
@@ -21,7 +23,9 @@ layout: archive
 
 <br>
 
-**Friedrich Schiller University Jena**, Teaching Assistant
+<div style="font-size: 1.15em; font-weight: 600;">
+  <strong>Friedrich Schiller University Jena</strong>, Teaching Assistant
+</div>
 
 <div>
   <span style="display:inline-block; padding-left:12px;">Microeconomics (BA)</span>
