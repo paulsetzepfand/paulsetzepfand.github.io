@@ -7,12 +7,28 @@ layout: archive
 
 ---
 
-## University of Oslo
+**University of Oslo**, Teaching Assistant  
 
-Fall 2026: Mathematics II (BA/MA), Teaching Assistant <br>
-Spring 2026: Introductory Econometrics (BA/MA), Teaching Assistant
+<table>
+  <tr>
+    <td style="padding-left:12px;">Mathematics II (BA/MA)</td>
+    <td style="text-align:right;">Fall 2026</td>
+  </tr>
+  <tr>
+    <td style="padding-left:12px;">Introductory Econometrics (BA/MA)</td>
+    <td style="text-align:right;">Spring 2026</td>
+  </tr>
+</table>
 
-## Friedrich Schiller University Jena
+**Friedrich Schiller University Jena**, Teaching Assistant  
 
-Fall 2019: Microeconomics (BA), Teaching Assistant <br>
-Spring 2019: Statistics (BA), Teaching Assistant
+<table>
+  <tr>
+    <td style="padding-left:12px;">Microeconomics (BA)</td>
+    <td style="text-align:right;">Fall 2019</td>
+  </tr>
+  <tr>
+    <td style="padding-left:12px;">Statistics (BA)</td>
+    <td style="text-align:right;">Spring 2019</td>
+  </tr>
+</table>
