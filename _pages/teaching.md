@@ -7,8 +7,8 @@ layout: archive
 
 ---
 
-<div style="font-size: 1.15em; font-weight: 600;">
-  <strong>University of Oslo</strong>, Teaching Assistant
+<div style="font-size: 1.15em;">
+  <strong>University of Oslo</strong>, <span style="font-weight: normal;">Teaching Assistant</span>
 </div>
 
 <div>
@@ -23,8 +23,8 @@ layout: archive
 
 <br>
 
-<div style="font-size: 1.15em; font-weight: 600;">
-  <strong>Friedrich Schiller University Jena</strong>, Teaching Assistant
+<div style="font-size: 1.15em;">
+  <strong>Friedrich Schiller University Jena</strong>, <span style="font-weight: normal;">Teaching Assistant</span>
 </div>
 
 <div>
