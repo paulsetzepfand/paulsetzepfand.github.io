@@ -9,6 +9,7 @@ layout: archive
 
 ## University of Oslo
 
+Fall 2026: Mathematics II (BA/MA), Teaching Assistant <br>
 Spring 2026: Introductory Econometrics (BA/MA), Teaching Assistant
 
 ## Friedrich Schiller University Jena
