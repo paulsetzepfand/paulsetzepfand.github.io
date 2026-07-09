@@ -15,6 +15,6 @@ Prior to starting my Ph.D., I earned a Master's degree in economics from the Uni
 
 From June to July 2026, I visited **CREST**, hosted by [**Clément Malgouyres**](https://sites.google.com/site/clementmalgouyres/).
 
-I am always happy to discuss research, be it yours or mine—please feel free to get in touch at paul.setzepfand[at]econ.uio.no!
+I am always happy to discuss research, be it yours or mine—feel free to get in touch at paul.setzepfand[at]econ.uio.no!
 
 </div>
