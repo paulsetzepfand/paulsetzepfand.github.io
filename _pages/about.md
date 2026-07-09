@@ -7,7 +7,7 @@ layout: archive
 
 <div style="text-align: justify;" markdown="1">
 
-I am a first-year **Ph.D. candidate in economics** at the [**University of Oslo**](https://www.sv.uio.no/econ/english/), where I am advised by [**Ragnhild C. Schreiner**](https://sites.google.com/site/ragnhildschreiner/) and [**Edwin Leuven**](https://leuven.economists.nl/). 
+I am a first-year **Ph.D. candidate in economics** at the [**University of Oslo**](https://www.sv.uio.no/econ/english/), advised by [**Ragnhild C. Schreiner**](https://sites.google.com/site/ragnhildschreiner/) and [**Edwin Leuven**](https://leuven.economists.nl/). 
 
 My research spans **labor, education, and health economics**, with a focus on sorting, matching, and centralized assignment. I am broadly interested in how public policy, market structure, and frictions shape equilibrium allocations, as well as how inefficiencies in and shocks to these allocations affect individual outcomes and aggregate welfare. To study these questions, I combine rich administrative data with a mix of reduced-form and structural methods. 
 
