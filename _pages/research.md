@@ -13,8 +13,6 @@ layout: archive
 
 Digital Technology Exposure and Student Outcomes (with Edwin Leuven and Ragnhild C. Schreiner)
 
-The Ontology of Uncertainty in Applied Economics: Implications for Inferential Practice
-
 </div>
 
 ## Publications
