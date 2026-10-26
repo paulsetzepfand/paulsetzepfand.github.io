@@ -11,7 +11,7 @@ layout: archive
 
 <div style="text-align: justify;" markdown="1">
 
-Digital Technology Exposure and Student Outcomes (with Edwin Leuven and Ragnhild C. Schreiner)
+School Digitalization and Student Achievement (with Edwin Leuven and Ragnhild C. Schreiner)
 
 </div>
 
@@ -19,9 +19,9 @@ Digital Technology Exposure and Student Outcomes (with Edwin Leuven and Ragnhild
 
 <div style="text-align: justify;" markdown="1">
 
-"Accumulation by Dispossession and the Fall of the Eastern Bloc: The Case of East Germany in Context". Accepted. ***Review of Radical Political Economics***.*
+"Accumulation by Dispossession and the Fall of the Eastern Bloc: The Case of East Germany in Context". Forthcoming. ***Review of Radical Political Economics***. [URL](https://doi.org/10.1177/04866134261463701)*
 
-"Priming Attitudes toward Immigrants: Implications for Migration Research and Survey Design" (with Patrick Dylong and Silke Übelmesser). 2024. ***European Journal of Political Economy***. [URL](https://linkinghub.elsevier.com/retrieve/pii/S0176268024000569).*
+"Priming Attitudes toward Immigrants: Implications for Migration Research and Survey Design" (with Patrick Dylong and Silke Übelmesser). 2024. ***European Journal of Political Economy***. [URL](https://doi.org/10.1016/j.ejpoleco.2024.102554).*
 
 </div>
 
